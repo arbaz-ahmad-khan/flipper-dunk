@@ -1,0 +1,58 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/backward-Net.png",
+                "type": "image",
+                "key": "backward-Net"
+            },
+            {
+                "url": "assets/images/ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/images/flipper.png",
+                "type": "image",
+                "key": "flipper"
+            },
+            {
+                "url": "assets/images/timer/Loading-bar.png",
+                "type": "image",
+                "key": "Loading-bar"
+            },
+            {
+                "url": "assets/images/timer/Loading-outer.png",
+                "type": "image",
+                "key": "Loading-outer"
+            },
+            {
+                "url": "assets/images/timer/loadingBall.png",
+                "type": "image",
+                "key": "loadingBall"
+            },
+            {
+                "url": "assets/images/Net-1.png",
+                "type": "image",
+                "key": "Net-1"
+            },
+            {
+                "url": "assets/images/right-arrow.png",
+                "type": "image",
+                "key": "right-arrow"
+            },
+            {
+                "url": "assets/images/wall.png",
+                "type": "image",
+                "key": "wall"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

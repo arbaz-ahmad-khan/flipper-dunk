@@ -1,0 +1,28 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/preload/Loading-bar.png",
+                "type": "image",
+                "key": "Loading-bar"
+            },
+            {
+                "url": "assets/images/preload/Loading-outer.png",
+                "type": "image",
+                "key": "Loading-outer"
+            },
+            {
+                "url": "assets/images/preload/loadingBall.png",
+                "type": "image",
+                "key": "loadingBall"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
